@@ -49,3 +49,8 @@ Alpha (9/26)
   - Open source website where people can upload games to Raspberry Pi
   - Hardware
     - Case for Raspberry Pi
+    
+  Week 1 (9-16-9/22)
+   - Ryan: half the functionality of the daytime and half the functionality of the nighttime
+   - Dan: mock up of Mafia and Sheriff; introduction/home page for mafia; introduction/home page for toybox
+   - Ben: get the phones to connect to the RaspberryPi at a minimum and get the snake game to work at the most
