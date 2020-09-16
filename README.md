@@ -15,6 +15,14 @@ Alpha (9/26)
  Beta (11/17)
  
  - Mafia
+  - Pages
+    - Introduction Screen
+    - Daytime Page
+    - Nighttime Page
+    - You Died Page
+    - You Got Lynched
+    - Character Pages
+    - Mafia Won or Civilians Won
  - Hardware
   - Attach battery
   
