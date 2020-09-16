@@ -20,9 +20,27 @@ Alpha (9/26)
       - Daytime Page
       - Nighttime Page
       - You Died Page
-      - You Got Lynched
+      - You Got Voted Off
       - Character Pages
       - Mafia Won or Civilians Won
+    - Mechanics
+      - Game Loop
+        - Daytime
+          - Discussion Time - find out who died, discuss it
+          - Nomination Period - vote who to put on trial
+          - Trial Phase - accused defend themselves
+          - Vote Period - vote for who is in mafia
+          - Accused Voted Off
+        - Nightime
+          - Mafia Votes - to kill others
+          - Sherif Votes - to see who is mafia
+          - Doctor Votes - to heal someone
+   - Roles
+      - Storyteller
+      - Mafia
+      - Doctor
+      - Sheriff
+      - Civilians
  - Hardware
   - Attach battery
   
