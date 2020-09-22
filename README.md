@@ -50,7 +50,7 @@ Alpha (9/26)
   - Hardware
     - Case for Raspberry Pi
     
-  Week 1 (9-16-9/22)
-   - Ryan: half the functionality of the daytime and half the functionality of the nighttime
-   - Dan: mock up of Mafia and Sheriff; introduction/home page for mafia; introduction/home page for toybox
-   - Ben: get the phones to connect to the RaspberryPi at a minimum and get the snake game to work at the most
+  Week 2/3 (9-22-10/6)
+   - Ryan: gameloop done - added while loop that implements roster (Week 2/3)
+   - Dan: icons of villager, mafia, doctor done - mockup mafia introduction/home page (Week 2)
+   - Ben: get the phones to connect to the RaspberryPi at a minimum and get the snake game to work donish - connect phones to raspi (Week 2)
