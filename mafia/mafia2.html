@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+  </head>
+    <meta charset="utf-8">
+    <title>ToyBox : Mafia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="mafiaStyle.css"
+  </head>
+
+  <body>
+
+    <div id="header">
+      <h2>Welcome to Mafia!</h2>
+    </div>
+
+    <div id="joinGame">
+
+      <form method="post">
+
+        <p>
+          <label>Please enter your name:
+            <input type="text" id="username" autofocus placeholder="John Doe" required>
+          </label>
+        </p>
+
+        <p>
+          <input type="button" id="submitName" value="Join" />
+          <input type="reset" value="Clear" />
+        </p>
+
+      </form>
+    </div>
+
+    <table id="tableID"></table>
+
+    <p id="startButSpot"></p>
+
+    <script src="processMafia.js"></script>
+
+  </body>
+</html>
