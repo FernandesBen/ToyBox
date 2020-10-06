@@ -43,6 +43,9 @@ Alpha (9/26)
       - Civilians
  - Hardware
   - Attach battery
+- Networking
+  -Connect phones
+  -Make sure works everywhere
   
   Release (11/19)
   
@@ -50,7 +53,7 @@ Alpha (9/26)
   - Hardware
     - Case for Raspberry Pi
     
-  Week 2/3 (9-22-10/6)
-   - Ryan: gameloop done - added while loop that implements roster (Week 2/3)
-   - Dan: icons of villager, mafia, doctor done - mockup mafia introduction/home page (Week 2)
-   - Ben: get the phones to connect to the RaspberryPi at a minimum and get the snake game to work donish - connect phones to raspi (Week 2)
+  Week 2/3 (10/13)
+   - Ryan: mutiple html files sharing one json file
+   - Dan: html homepage for mafia
+   - Ben: networking try bluebox for basic rendition of game
