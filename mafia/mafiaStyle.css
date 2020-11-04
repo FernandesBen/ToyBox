@@ -1,0 +1,18 @@
+table, th, td {
+  text-align:center;
+  border: 1px solid black;
+  width: 50%;
+}
+
+th {
+  background-color: #1E90FF;
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.civColor {
+  background-color: coral;
+}

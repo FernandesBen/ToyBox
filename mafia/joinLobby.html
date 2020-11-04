@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+  </head>
+    <meta charset="utf-8">
+    <title>ToyBox : Mafia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="mafiaStyle.css"
+  </head>
+
+  <body>
+    <h2>Welcome to Mafia!</h2>
+
+      <form action="lobby.html"> <!--action="lobby.html"-->
+        <p>
+          <label>Please enter your name:
+            <input type="text" name="usernameInput" id="usernameInput" autofocus placeholder="John Doe" required>
+          </label>
+        </p>
+        <p>
+          <input type="submit" onclick="sendName()" value="Join" />
+          <input type="reset" value="Clear" />
+        </p>
+      </form>
+    </div>
+  </body>
+  <script>
+    function sendName() {
+      var name = document.getElementById("usernameInput").value;
+      localStorage.setItem("USERNAME", name);
+    };
+  </script>
+  <!-- All other script tags should come after this one. -->
+
+</html>
