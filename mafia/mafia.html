@@ -3,13 +3,27 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Merriweather:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
     <title>Mafia Menu</title>
   </head>
   <body>
-    <h1>Welcome to Mafia</h1>
-    <!-- <button type="button" name="lobby">Create A Game</button> -->
-    <form action="/joinLobby.html"><input type="submit" name="join" value="Join A Game"></input></form>
-    <!-- <button type="button" name="rules">Rules</button> -->
-    <form action="/index.html"><input type="submit" name="home" value="Back to Home"></input></form>
+
+    <div class="container">
+      <div id="imgbox">
+        <img src="../mafia/mafia.png" alt="mafia icon">
+      </div>
+      <div id="gameTitle">
+        <h1>The Mafia</h1>
+      </div>
+    </div>
+
+    <div class="content">
+      <!-- <button type="button" name="lobby">Create A Game</button> -->
+      <form action="/joinLobby.html"><input type="submit" id="join" value="Join A Game"></input></form>
+      <!-- <button type="button" name="rules">Rules</button> -->
+      <form action="/index.html"><input type="submit" id="home" value="Back to Home"></input></form>
+    </div>
   </body>
 </html>
