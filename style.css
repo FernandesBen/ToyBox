@@ -1,0 +1,89 @@
+body {
+  background-color: #222831;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  color: #c42006;
+  text-align: center;
+  font-size: 5.75vw;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+h4{
+  color: #e8e8e8;
+  font-size: 2.65vw;
+  margin: 18px;
+}
+
+input {
+  width: 8.5%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.welcome {
+  display: flex;
+  justify-content: center;
+}
+
+.welcome > h1 {
+  border-style: ridge;
+  box-sizing: border-box;
+  font-size: 5.15vw;
+  width: 70%;
+}
+
+.content {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+}
+
+#imgbox {
+  display: flex;
+  justify-content: center;
+}
+
+#mafia {
+  padding: 4px 5px;
+  background-color: #d4cfcb;
+  border-radius: 6px;
+  color: #c42006;
+  font-size: 1.95vw;
+  font-weight: normal;
+  font-family: 'Merriweather', serif;
+}
+
+#join {
+  width: 13%;
+  padding: 4px 5px;
+  margin-bottom: 10px;
+  background-color: #d4cfcb;
+  border-radius: 6px;
+  color: #c42006;
+  font-size: 1.95vw;
+  font-weight: normal;
+  font-family: 'Merriweather', serif;
+}
+
+#home {
+  width: 13%;
+  padding: 4px 5px;
+  background-color: #d4cfcb;
+  border-radius: 6px;
+  color: #c42006;
+  font-size: 1.95vw;
+  font-weight: normal;
+  font-family: 'Merriweather', serif;
+}
