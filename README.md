@@ -57,3 +57,7 @@ Alpha (9/26)
    - Ryan: mutiple html files sharing one json file
    - Dan: html homepage for mafia
    - Ben: networking try bluebox for basic rendition of game
+   
+   
+   Chat App source:
+   https://github.com/bradtraversy/chatcord
